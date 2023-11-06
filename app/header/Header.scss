@@ -1,0 +1,35 @@
+.actions {
+  form {
+    position: relative;
+    .search-input {
+      width: 186px;
+      height: 60px;
+      display: flex;
+      padding-left: 10px;
+    }
+    .search-btn {
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 50px;
+      margin: 6px 7px 2px 2px;
+    }
+  }
+  .second-action {
+    width: 133px;
+    .cart-img {
+      width: 53px;
+      height: 51px;
+      padding: 1px 0px 0px 4px;
+    }
+    p {
+      margin: 0px 0px 0px 0px;
+      color: #274c5b;
+      font-family: sans-serif;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+    }
+  }
+}
