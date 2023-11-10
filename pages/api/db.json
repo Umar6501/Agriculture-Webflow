@@ -1,0 +1,88 @@
+{
+  "produts": [
+    {
+      "id": "1",
+      "name": "Calabrese Broccoli",
+      "price": "$13.00",
+      "description": "Calabrese broccoli, also known as broccoli romanesco, is a type of broccoli that is native to Italy. It is characterized by its tightly packed, spiraled florets that resemble a miniature Romanesque cathedral.",
+      "category": "Vegetable"
+    },
+    {
+      "id": "2",
+      "name": "Fresh Banana Fruites",
+      "price": "$14.00",
+      "description": "Fresh banana fruits are a type of berry that is produced by a large herbaceous flowering plant in the genus Musa. Bananas are native to Southeast Asia and grown in many of the warmer areas of the world. They are a popular fruit because they are delicious, nutritious, and affordable.",
+      "category": "Fresh"
+    },
+    {
+      "id": "3",
+      "name": "White Nuts",
+      "price": "$17.00",
+      "description": "Nuts are a type of edible seed kernel that is enclosed in a hard shell. Nuts are a good source of protein, fiber, healthy fats, and vitamins and minerals. They are also low in carbohydrates and calories.",
+      "category": "Millets"
+    },
+    {
+      "id": "4",
+      "name": "Vegan Red Tomato",
+      "price": "$19.00",
+      "description": "Vegan red tomatoes are a type of tomato that is grown without the use of any animal products. This includes fertilizers, pesticides, and herbicides. Vegan tomatoes are also typically picked when they are ripe, which means that they are more flavorful and nutritious than non-vegan tomatoes.",
+      "category": "Vegetable"
+    },
+    {
+      "id": "5",
+      "name": "Mung Bean",
+      "price": "$10.00",
+      "description": "Mung beans, also known as green gram beans, are a type of legume that is native to India and Southeast Asia. They are a small, green bean that is about the size of a lentil. Mung beans are a good source of protein, fiber, and vitamins and minerals. They are also low in calories and fat.",
+      "category": "Health"
+    },
+    {
+      "id": "6",
+      "name": "Brown Hazelnut",
+      "price": "$12.00",
+      "description": "Brown hazelnuts, also known as European hazelnuts or cobnuts, are a type of nut that is native to Europe and Asia. They are a small, round nut with a brown shell and a white kernel. Brown hazelnuts have a nutty, sweet flavor and are a good source of protein, fiber, and vitamins and minerals.",
+      "category": "Nuts"
+    },
+    {
+      "id": "7",
+      "name": "Eggs",
+      "price": "$34.00",
+      "description": "Eggs are a nutrient-rich food that can be enjoyed by people of all ages. They are a good source of protein, vitamins, and minerals, and they can be prepared in many different ways.",
+      "category": "Fresh"
+    },
+    {
+      "id": "8",
+      "name": "Zelco Suji Elaichi Rusk",
+      "price": "$14.00",
+      "description": "Zelko Suji Elaichi Rusk is a popular Indian snack made from semolina, ghee, and cardamom powder. It is a crispy and flavorful snack that is often served with tea or coffee.",
+      "category": "Fresh"
+    },
+    {
+      "id": "9",
+      "name": "Mung Bean",
+      "price": "$13.40",
+      "description": "Mung beans, also known as green gram beans, are a type of legume that is native to India and Southeast Asia. They are a small, green bean that is about the size of a lentil.",
+      "category": "Health"
+    },
+    {
+      "id": "10",
+      "name": "White Hazelnut",
+      "price": "$17.00",
+      "description": "White hazelnuts, also known as American hazelnuts or filberts, are a type of nut that is native to North America. They are a small, round nut with a brown shell and a white kernel.",
+      "category": "Nuts"
+    },
+    {
+      "id": "11",
+      "name": "Fresh Corn",
+      "price": "$11.00",
+      "description": "Fresh corn is a type of grain that is native to North America. It is a popular summer vegetable and is often eaten on the cob or used in recipes such as corn on the cob, cornbread, and succotash.",
+      "category": "Fresh"
+    },
+    {
+      "id": "12",
+      "name": "Organic Almonds",
+      "price": "$40.00",
+      "description": "Organic almonds are grown on farms that use sustainable practices, such as crop rotation and composting. This helps to protect the soil and water quality, and it also helps to reduce greenhouse gas emissions.",
+      "category": "Nuts"
+    }
+  ]
+}
